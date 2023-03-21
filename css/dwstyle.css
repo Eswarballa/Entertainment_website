@@ -201,6 +201,14 @@ border-radius: 8px;
     .logo{
         width: 90px;
     }
+    
+    
+    .side-video-list{
+        width: 470px;
+    }
+    .row{
+        width: 688px;
+    }
 
 }
 .play-container{
