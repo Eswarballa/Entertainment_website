@@ -189,6 +189,7 @@ border-radius: 8px;
         padding-left: 5%;
         padding-right: 5%;
         width: 450px;
+        flex: auto;
     }
     .play-video{
         width: 150%;
